@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.ipynb_checkpoints/
+# 环境
+.env
+.venv/
+# 数据和模型 (千万别传到GitHub！)
+data/
+models/
+outputs/
+hf_cache/
+# IDE
+.vs/
+.vscode/
+.claude/
+# 临时文件
+~$*
+# OS
+.DS_Store
+Thumbs.db
