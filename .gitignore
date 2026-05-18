@@ -8,7 +8,8 @@ __pycache__/
 # 数据和模型 (千万别传到GitHub！)
 data/
 models/
-outputs/
+outputs/*
+!outputs/代码v10.py
 hf_cache/
 # IDE
 .vs/
